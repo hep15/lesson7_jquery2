@@ -1,0 +1,1 @@
+For the extra credit, I changed the color of the background as well as the animations. I chose to utilize the hover method.
